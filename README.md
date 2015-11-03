@@ -12,3 +12,5 @@
 
 ## 克隆版本库
     操作示例：`$ git clone git@github.com:ichunming/junit.git`
+
+##### PS：普通java工程，需要自己下载jar包，配置buildpath
